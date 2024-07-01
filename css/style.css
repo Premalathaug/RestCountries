@@ -1,0 +1,37 @@
+h1{
+    margin: 35px 0px ;
+    background-color: white;
+    padding: 20px;
+    width: cover ;
+    box-sizing: content-box;
+    border-radius: 15px ;
+}
+
+
+.row{
+    align-items: center ;
+    justify-content: center ;
+  }
+ 
+  .card-header{
+
+    color:blanchedalmond;
+    font-size: large;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+  .card-text, .btn{
+    margin-top: 12px;
+    font-size: 17px ;
+    font-weight: bold;
+  }
+  
+  .card-body{
+    align-items: center ;
+    display: flex ;
+    flex-direction: column;
+    
+    box-shadow: 1px 20px 20px 1px ;
+  }
+  
